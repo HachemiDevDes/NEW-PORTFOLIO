@@ -1,0 +1,26 @@
+p{
+    color: #484848;
+    font-weight: 400;
+    
+}
+
+h1{
+    color: #1f1f1f;
+}
+
+h2{
+    color: #050b31;
+}
+
+br{
+    size: "130px";
+    color : "white";
+}
+
+html{
+    font-family: poppins;
+}
+
+a{
+    color: darkred;
+}
